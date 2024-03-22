@@ -1,4 +1,4 @@
-# Game-Dom-Bosco-Mobile
+# dom-bosco-mobile-game
 
 Este Projeto trata-se de um jogo, feito no período do curso técnico em Informática.
 
