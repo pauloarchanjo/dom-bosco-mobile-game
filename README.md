@@ -4,7 +4,7 @@ Este Projeto trata-se de um jogo, feito no período do curso técnico em Inform�
 
 Criado por Carlos Alberto, Julia Lisboa e Paulo Archanjo.
 
-Link para download do Apk do projeto: https://drive.google.com/file/d/1JZ77-xh157W89nL4TzZ_OHeEAVrv88iB/view?usp=sharing
+Link para download do Apk do projeto: [https://drive.google.com/file/d/1JZ77-xh157W89nL4TzZ_OHeEAVrv88iB/view?usp=sharing](https://drive.google.com/file/d/1uW8XVyL4zOmWZcqTuAIALEtXITC57GDx/view?usp=drive_link)
 
 ##
 
